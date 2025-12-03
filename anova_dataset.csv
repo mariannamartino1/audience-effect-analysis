@@ -1,0 +1,46 @@
+timestamp_trial,participant,condition,order,difficulty,satisfaction,nervousness,time_raw,time_minutes,timestamp_q,known_audience,age,gender,nationality,sudoku_frequency,comfort_watched,performed_audience,performance_frequency,order_group
+2025/10/30 11:47:57 a. m. CET,2,Alone,First,2.0,3.0,4.0,00:10:54,10.9,2025/10/30 12:01:46 p. m. CET,2,27,Male,Greek,Never,2,True,Sometimes,AloneFirst
+2025/10/30 12:00:14 p. m. CET,2,Audience,Second,2.0,3.0,4.0,00:10:48,10.8,2025/10/30 12:01:46 p. m. CET,2,27,Male,Greek,Never,2,True,Sometimes,AloneFirst
+2025/10/30 12:11:56 p. m. CET,1,Audience,First,3.0,3.0,1.0,00:07:50,7.833333333333333,2025/10/30 12:20:10 p. m. CET,2,25,Male,German,,3,False,,AudienceFirst
+2025/10/30 12:18:53 p. m. CET,1,Alone,Second,2.0,3.0,1.0,00:05:46,5.766666666666667,2025/10/30 12:20:10 p. m. CET,2,25,Male,German,,3,False,,AudienceFirst
+2025/10/30 3:23:41 p. m. CET,3,Audience,First,3.0,1.0,4.0,00:14:31,14.516666666666667,2025/10/30 12:20:10 p. m. CET,1,26,Male,Danish,,2,False,,AudienceFirst
+2025/10/30 3:41:32 p. m. CET,4,Audience,First,3.0,4.0,4.0,15:18,15.3,2025/10/30 3:49:39 p. m. CET,1,24,Female,Portuguese,Never,1,True,Sometimes,AudienceFirst
+2025/10/30 3:48:50 p. m. CET,4,Alone,Second,2.0,5.0,1.0,00:06:30,6.5,2025/10/30 3:49:39 p. m. CET,1,24,Female,Portuguese,Never,1,True,Sometimes,AudienceFirst
+2025/10/30 4:10:55 p. m. CET,5,Alone,First,2.0,4.0,1.0,00:07:59,7.983333333333333,2025/10/30 4:19:47 p. m. CET,2,28,Male,German,,3,False,,AloneFirst
+2025/10/30 4:18:44 p. m. CET,5,Audience,Second,1.0,4.0,2.0,00:06:42,6.7,2025/10/30 4:19:47 p. m. CET,2,28,Male,German,,3,False,,AloneFirst
+2025/11/02 6:18:18 p. m. CET,6,Alone,First,4.0,2.0,3.0,00:18:49,18.816666666666663,2025/11/02 7:02:20 p. m. CET,2,24,Male,italian,Never,3,True,Sometimes,AloneFirst
+2025/11/02 6:18:56 p. m. CET,7,Alone,First,3.0,3.0,1.0,00:22:43,22.716666666666665,2025/11/02 7:03:59 p. m. CET,2,25,Female,Polish,,2,True,Sometimes,AloneFirst
+2025/11/02 6:28:44 p. m. CET,8,Alone,First,4.0,1.0,2.0,00:19:49,19.816666666666663,2025/11/02 7:05:02 p. m. CET,2,24,Male,italian,,4,True,Very often,AloneFirst
+2025/11/02 6:41:49 p. m. CET,9,Alone,First,3.0,3.0,3.0,00:18:53,18.883333333333333,2025/11/02 7:06:07 p. m. CET,2,26,Male,italian,,4,True,Often,AloneFirst
+2025/11/02 6:44:55 p. m. CET,7,Audience,Second,3.0,2.0,2.0,00:18:36,18.6,2025/11/02 7:03:59 p. m. CET,2,25,Female,Polish,,2,True,Sometimes,AloneFirst
+2025/11/02 6:45:49 p. m. CET,8,Audience,Second,2.0,2.0,2.0,00:14:53,14.883333333333333,2025/11/02 7:05:02 p. m. CET,2,24,Male,italian,,4,True,Very often,AloneFirst
+2025/11/02 7:01:18 p. m. CET,6,Audience,Second,4.0,3.0,3.0,00:13:00,13.0,2025/11/02 7:02:20 p. m. CET,2,24,Male,italian,Never,3,True,Sometimes,AloneFirst
+2025/11/02 7:09:38 p. m. CET,9,Audience,Second,3.0,4.0,3.0,00:16:01,16.016666666666666,2025/11/02 7:06:07 p. m. CET,2,26,Male,italian,,4,True,Often,AloneFirst
+2025/11/05 3:07:45 p. m. CET,10,Audience,First,1.0,3.0,3.0,00:12:55,12.916666666666666,2025/11/05 3:21:19 p. m. CET,2,26,Male,Danish,,4,True,Very often,AudienceFirst
+2025/11/05 3:19:24 p. m. CET,10,Alone,Second,1.0,3.0,2.0,00:10:22,10.366666666666667,2025/11/05 3:21:19 p. m. CET,2,26,Male,Danish,,4,True,Very often,AudienceFirst
+2025/11/06 6:39:25 p. m. CET,11,Alone,First,2.0,1.0,3.0,00:11:52,11.866666666666667,2025/11/09 7:14:45 p. m. CET,2,26,Male,Irish,,2,False,Rarely,AloneFirst
+2025/11/06 6:45:56 p. m. CET,12,Alone,First,4.0,2.0,3.0,00:19:26,19.433333333333334,2025/11/09 1:21:07 p. m. CET,2,34,Male,British,,4,True,Often,AloneFirst
+2025/11/06 7:10:57 p. m. CET,11,Audience,Second,4.0,3.0,4.0,00:15:15,15.25,2025/11/09 7:14:45 p. m. CET,2,26,Male,Irish,,2,False,Rarely,AloneFirst
+2025/11/06 7:16:04 p. m. CET,12,Audience,Second,3.0,3.0,3.0,00:20:16,20.266666666666666,2025/11/09 1:21:07 p. m. CET,2,34,Male,British,,4,True,Often,AloneFirst
+2025/11/06 7:16:52 p. m. CET,13,Audience,First,3.0,2.0,4.0,00:20:38,20.633333333333333,2025/11/09 3:39:32 p. m. CET,3,31,Male,German ,Never,3,True,Often,AudienceFirst
+2025/11/09 3:23:27 p. m. CET,14,Alone,First,1.0,3.0,3.0,00:05:57,5.95,2025/11/09 3:37:45 p. m. CET,3,28,Male,Italian,,2,False,,AloneFirst
+2025/11/09 3:49:01 p. m. CET,15,Alone,First,2.0,3.0,1.0,00:07:33,7.55,2025/11/09 3:57:32 p. m. CET,3,25,Female,Italy,Never,2,False,,AloneFirst
+2025/11/09 3:53:38 p. m. CET,16,Audience,First,2.0,3.0,2.0,00:07:56,7.933333333333334,2025/11/09 4:01:21 p. m. CET,1,24,Female,Italy,,3,False,,AudienceFirst
+2025/11/09 3:59:03 p. m. CET,15,Audience,Second,2.0,4.0,2.0,00:07:13,7.216666666666667,2025/11/09 3:57:32 p. m. CET,3,25,Female,Italy,Never,2,False,,AloneFirst
+2025/11/09 4:00:06 p. m. CET,16,Alone,Second,1.0,3.0,1.0,04:33,4.55,2025/11/09 4:01:21 p. m. CET,1,24,Female,Italy,,3,False,,AudienceFirst
+2025/11/09 4:02:52 p. m. CET,14,Audience,Second,2.0,2.0,4.0,00:10:50,10.833333333333334,2025/11/09 3:37:45 p. m. CET,3,28,Male,Italian,,2,False,,AloneFirst
+2025/11/09 4:10:03 p. m. CET,18,Alone,First,2.0,1.0,2.0,4:51,4.85,2025/11/09 4:19:43 p. m. CET,2,26,Male,Italy,,2,False,,AloneFirst
+2025/11/09 4:12:55 p. m. CET,17,Audience,First,2.0,4.0,1.0,00:11:10,11.166666666666666,2025/11/09 4:34:41 p. m. CET,3,26,Male,Italy,Never,4,True,Sometimes,AudienceFirst
+2025/11/09 4:18:15 p. m. CET,18,Audience,Second,3.0,1.0,3.0,00:06:39,6.65,2025/11/09 4:19:43 p. m. CET,2,26,Male,Italy,,2,False,,AloneFirst
+2025/11/09 4:33:20 p. m. CET,17,Alone,Second,5.0,1.0,4.0,00:19:30,19.5,2025/11/09 4:34:41 p. m. CET,3,26,Male,Italy,Never,4,True,Sometimes,AudienceFirst
+2025/11/09 6:01:40 p. m. CET,19,Alone,First,2.0,3.0,2.0,00:11:26,11.433333333333334,2025/11/09 6:22:31 p. m. CET,2,24,Female,italian,,2,True,Sometimes,AloneFirst
+2025/11/09 6:08:59 p. m. CET,20,Audience,First,3.0,3.0,2.0,00:17:59,17.983333333333334,2025/11/09 6:33:37 p. m. CET,2,23,Female,Danish,,3,True,Sometimes,AudienceFirst
+2025/11/09 6:21:58 p. m. CET,19,Audience,Second,2.0,3.0,3.0,00:10:58,10.966666666666669,2025/11/09 6:22:31 p. m. CET,2,24,Female,italian,,2,True,Sometimes,AloneFirst
+2025/11/09 6:22:50 p. m. CET,21,Alone,First,4.0,3.0,2.0,00:17:00,17.0,2025/11/09 7:00:53 p. m. CET,2,25,Male,spanish,Never,3,False,,AloneFirst
+2025/11/09 6:32:50 p. m. CET,20,Alone,Second,1.0,4.0,1.0,00:08:21,8.35,2025/11/09 6:33:37 p. m. CET,2,23,Female,Danish,,3,True,Sometimes,AudienceFirst
+2025/11/09 6:43:48 p. m. CET,23,Alone,First,1.0,3.0,1.0,00:06:56,6.933333333333334,2025/11/09 7:08:32 p. m. CET,3,26,Male,Italian,,5,True,Rarely,AloneFirst
+2025/11/09 6:46:14 p. m. CET,22,Audience,First,4.0,3.0,5.0,00:22:52,22.866666666666667,2025/11/09 7:04:01 p. m. CET,2,24,Female,Polish,,1,True,Often,AudienceFirst
+2025/11/09 7:00:09 p. m. CET,21,Audience,Second,3.0,3.0,2.0,00:12:10,12.166666666666666,2025/11/09 7:00:53 p. m. CET,2,25,Male,spanish,Never,3,False,,AloneFirst
+2025/11/09 7:02:58 p. m. CET,22,Alone,Second,1.0,4.0,1.0,00:07:58,7.966666666666667,2025/11/09 7:04:01 p. m. CET,2,24,Female,Polish,,1,True,Often,AudienceFirst
+2025/11/09 7:07:44 p. m. CET,23,Audience,Second,1.0,3.0,1.0,00:05:14,5.233333333333333,2025/11/09 7:08:32 p. m. CET,3,26,Male,Italian,,5,True,Rarely,AloneFirst
+2025/11/09 9:30:23 p. m. CET,13,Alone,Second,4.0,1.0,1.0,00:21:34,21.566666666666663,2025/11/09 3:39:32 p. m. CET,3,31,Male,German ,Never,3,True,Often,AudienceFirst
